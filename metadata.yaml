@@ -1,0 +1,23 @@
+_repo: Types-of-Children-s-Literature-A-Collection-of-the-World-s-Best-Literature-for-Children-For-Us__6588
+contributor:
+  creator:
+    editor:
+      agent_name: Barnes, Walter
+      birthdate: 1880
+      gutenberg_agent_id: '2101'
+      url: http://www.gutenberg.org/2009/agents/2101
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s literature'
+title: "Types of Children's Literature\r\nA Collection of the World's Best Literature\
+  \ for Children, For Use in Colleges, Normal Schools and Library Schools"
+url: http://www.gutenberg.org/ebooks/6588
